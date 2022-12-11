@@ -16,7 +16,7 @@
 ## Enter Container
 This command could be added to terminator profile with absolute path to script 
   ```bash
-  bash Enter.sh
+  bash enter.sh
 ```
 
 ## Usage
@@ -53,6 +53,6 @@ roslaunch mycobot_move_it_config demo_gazebo.launch
 * [ros-planning/moveit](https://github.com/ros-planning/moveit)
     * `Copyright (c) 2008-2013, Willow Garage, Inc.`
     * [BSD-3-Clause](https://github.com/ros-planning/moveit/blob/664ae01803abf5e0b4649063102357262de9e05c/LICENSE.txt)
-* [mycobot_ros](https://github.com/Tiryoh/mycobot_ros)
+* [tiryoh/mycobot_ros](https://github.com/Tiryoh/mycobot_ros)
     * `Copyright (c) 2020 Daisuke Sato`
     * [Apache-2.0](https://github.com/Tiryoh/mycobot_ros/blob/main/LICENSE)
