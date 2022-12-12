@@ -25,5 +25,5 @@ docker run -it \
     --privileged \
     --network=host \
     --name="cybair_cobot" \
-    ubuntu \
+    cobot:latest \
     /bin/bash
